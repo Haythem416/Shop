@@ -1,0 +1,39 @@
+h2{
+font-family: 'cairo',sans-serif;
+
+}
+
+.main{
+width: 40%;
+box-shadow:10px 10px 10px 10px silver;
+margin-top: 50px;
+padding: 10px;
+}
+input{
+padding: 5px;
+margin: 10px;
+width: 50%;
+font-size:15px;
+font-weight:bold;
+
+}
+button{
+border: none;
+padding: 10px;
+width:40%;
+margin: 10px;
+font-weight: bold;
+background-color: rgb(92, 94, 255);
+}
+label
+{
+    width: 30%;
+    background-color: rgb(73, 85, 255);
+    padding: 10px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(255, 0, 89);
+}
